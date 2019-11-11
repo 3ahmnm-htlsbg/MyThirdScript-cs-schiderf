@@ -16,10 +16,4 @@ public class AddNumbers : MonoBehaviour
 
        Debug.Log("add numbers a = " + a + ", b = " + b + "; a + b = " + (a + b));
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
